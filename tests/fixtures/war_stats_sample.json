@@ -1,0 +1,1778 @@
+{
+ "items": [
+  {
+   "teamSize": 40,
+   "attacksPerMember": 2,
+   "preparationStartTime": "20261017T120116.000Z",
+   "startTime": "20261018T110116.000Z",
+   "endTime": "20261019T110116.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 69,
+    "stars": 120,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y000002",
+    "name": "部落2",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/1YLwc9Cch2-_wazjEbeJUpzgMRVgbeL9wg5go2HlI1Q.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/1YLwc9Cch2-_wazjEbeJUpzgMRVgbeL9wg5go2HlI1Q.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/1YLwc9Cch2-_wazjEbeJUpzgMRVgbeL9wg5go2HlI1Q.png"
+    },
+    "clanLevel": 30,
+    "attacks": 68,
+    "stars": 120,
+    "destructionPercentage": 100
+   },
+   "type": "random",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 20
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 47,
+     "duration": 108,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y000009",
+      "name": "玩家2",
+      "townhallLevel": 18,
+      "mapPosition": 25
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 48,
+     "duration": 125,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00000P",
+      "name": "玩家3",
+      "townhallLevel": 18,
+      "mapPosition": 17
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 68,
+     "duration": 162,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00000Y",
+      "name": "玩家4",
+      "townhallLevel": 18,
+      "mapPosition": 12
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 98,
+     "duration": 161,
+     "fresh": false,
+     "player": {
+      "tag": "#9P0Y00000P",
+      "name": "玩家3",
+      "townhallLevel": 18,
+      "mapPosition": 17
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 40,
+   "attacksPerMember": 2,
+   "preparationStartTime": "20261015T120523.000Z",
+   "startTime": "20261016T110523.000Z",
+   "endTime": "20261017T110523.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 74,
+    "stars": 120,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y00000L",
+    "name": "部落3",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/sqNny3NSaR7ajG6HOlocoVyggknccosSUxho9L2Nt9Q.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/sqNny3NSaR7ajG6HOlocoVyggknccosSUxho9L2Nt9Q.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/sqNny3NSaR7ajG6HOlocoVyggknccosSUxho9L2Nt9Q.png"
+    },
+    "clanLevel": 17,
+    "attacks": 67,
+    "stars": 115,
+    "destructionPercentage": 97.175
+   },
+   "type": "random",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 22
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 136,
+     "duration": 83,
+     "fresh": false,
+     "player": {
+      "tag": "#9P0Y00000Q",
+      "name": "玩家5",
+      "townhallLevel": 18,
+      "mapPosition": 22
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 137,
+     "duration": 84,
+     "fresh": false,
+     "player": {
+      "tag": "#9P0Y00000G",
+      "name": "玩家6",
+      "townhallLevel": 18,
+      "mapPosition": 26
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 19,
+     "duration": 133,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00000R",
+      "name": "玩家7",
+      "townhallLevel": 18,
+      "mapPosition": 21
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 40,
+   "attacksPerMember": 2,
+   "preparationStartTime": "20261013T120324.000Z",
+   "startTime": "20261014T110324.000Z",
+   "endTime": "20261015T112230.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 71,
+    "stars": 120,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y00000J",
+    "name": "部落4",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
+    },
+    "clanLevel": 23,
+    "attacks": 59,
+    "stars": 113,
+    "destructionPercentage": 97
+   },
+   "type": "random",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 21
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 86,
+     "duration": 95,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00000C",
+      "name": "玩家8",
+      "townhallLevel": 18,
+      "mapPosition": 29
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 87,
+     "duration": 89,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00000U",
+      "name": "玩家9",
+      "townhallLevel": 18,
+      "mapPosition": 28
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 57,
+     "duration": 105,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00000V",
+      "name": "玩家10",
+      "townhallLevel": 18,
+      "mapPosition": 10
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 35,
+   "attacksPerMember": 2,
+   "preparationStartTime": "20261011T120104.000Z",
+   "startTime": "20261012T110104.000Z",
+   "endTime": "20261013T113637.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 65,
+    "stars": 105,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y000020",
+    "name": "部落5",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/HzVo_1XdFtLyHj1uyL0VVsxHLW31XnoApkdyArVA1Ok.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/HzVo_1XdFtLyHj1uyL0VVsxHLW31XnoApkdyArVA1Ok.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/HzVo_1XdFtLyHj1uyL0VVsxHLW31XnoApkdyArVA1Ok.png"
+    },
+    "clanLevel": 25,
+    "attacks": 60,
+    "stars": 105,
+    "destructionPercentage": 100
+   },
+   "type": "random",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 22
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 1,
+     "duration": 89,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y000022",
+      "name": "玩家11",
+      "townhallLevel": 18,
+      "mapPosition": 19
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 3,
+     "duration": 81,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y000028",
+      "name": "玩家12",
+      "townhallLevel": 18,
+      "mapPosition": 17
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 2,
+     "destructionPercentage": 76,
+     "order": 85,
+     "duration": 135,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y000029",
+      "name": "玩家13",
+      "townhallLevel": 18,
+      "mapPosition": 15
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 112,
+     "duration": 140,
+     "fresh": false,
+     "player": {
+      "tag": "#9P0Y000028",
+      "name": "玩家12",
+      "townhallLevel": 18,
+      "mapPosition": 17
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 30,
+   "attacksPerMember": 2,
+   "preparationStartTime": "20261009T120225.000Z",
+   "startTime": "20261010T110225.000Z",
+   "endTime": "20261011T110225.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 60,
+    "stars": 90,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y00002P",
+    "name": "部落6",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/DN_8LjdLQhliMFZZZBj_q50a6XK9ipwsPZ00V59k9O8.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/DN_8LjdLQhliMFZZZBj_q50a6XK9ipwsPZ00V59k9O8.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/DN_8LjdLQhliMFZZZBj_q50a6XK9ipwsPZ00V59k9O8.png"
+    },
+    "clanLevel": 27,
+    "attacks": 49,
+    "stars": 81,
+    "destructionPercentage": 90.9
+   },
+   "type": "random",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 19
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 81,
+     "duration": 90,
+     "fresh": false,
+     "player": {
+      "tag": "#9P0Y00002Y",
+      "name": "玩家14",
+      "townhallLevel": 18,
+      "mapPosition": 21
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 82,
+     "duration": 108,
+     "fresh": false,
+     "player": {
+      "tag": "#9P0Y00002L",
+      "name": "玩家15",
+      "townhallLevel": 18,
+      "mapPosition": 22
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 2,
+     "destructionPercentage": 70,
+     "order": 29,
+     "duration": 107,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00002L",
+      "name": "玩家15",
+      "townhallLevel": 18,
+      "mapPosition": 22
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 15,
+   "attacksPerMember": 1,
+   "preparationStartTime": "20261007T111217.000Z",
+   "startTime": "20261008T111214.000Z",
+   "endTime": "20261009T111214.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 15,
+    "stars": 39,
+    "destructionPercentage": 96.53333333333333
+   },
+   "opponent": {
+    "tag": "#9P0Y00002Q",
+    "name": "部落7",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png"
+    },
+    "clanLevel": 19,
+    "attacks": 15,
+    "stars": 44,
+    "destructionPercentage": 98.53333333333333
+   },
+   "type": "cwl",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 9
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 1,
+     "duration": 80,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00002G",
+      "name": "玩家16",
+      "townhallLevel": 18,
+      "mapPosition": 1
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 28,
+     "duration": 143,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00002G",
+      "name": "玩家16",
+      "townhallLevel": 18,
+      "mapPosition": 1
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 15,
+   "attacksPerMember": 2,
+   "preparationStartTime": "20261007T120831.000Z",
+   "startTime": "20261008T110831.000Z",
+   "endTime": "20261009T110831.000Z",
+   "clan": {
+    "tag": "#9P0Y00002R",
+    "name": "部落8",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/L7EcvmU3_idcfAR6-OEoDjyJrRo7gnr6eJ7q7sSZwKc.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/L7EcvmU3_idcfAR6-OEoDjyJrRo7gnr6eJ7q7sSZwKc.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/L7EcvmU3_idcfAR6-OEoDjyJrRo7gnr6eJ7q7sSZwKc.png"
+    },
+    "clanLevel": 11,
+    "attacks": 22,
+    "stars": 45,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y00002J",
+    "name": "部落9",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/eMKmOkyEuhSqy4Xx96il4YoqmN8bnn5FqqvPmhXGvvc.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/eMKmOkyEuhSqy4Xx96il4YoqmN8bnn5FqqvPmhXGvvc.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/eMKmOkyEuhSqy4Xx96il4YoqmN8bnn5FqqvPmhXGvvc.png"
+    },
+    "clanLevel": 7,
+    "attacks": 22,
+    "stars": 45,
+    "destructionPercentage": 100
+   },
+   "type": "random",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 5
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 6,
+     "duration": 80,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00002C",
+      "name": "玩家17",
+      "townhallLevel": 18,
+      "mapPosition": 5
+     }
+    },
+    {
+     "stars": 2,
+     "destructionPercentage": 89,
+     "order": 8,
+     "duration": 115,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00002U",
+      "name": "玩家18",
+      "townhallLevel": 18,
+      "mapPosition": 3
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 2,
+     "destructionPercentage": 93,
+     "order": 20,
+     "duration": 177,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00002V",
+      "name": "玩家19",
+      "townhallLevel": 18,
+      "mapPosition": 6
+     }
+    },
+    {
+     "stars": 2,
+     "destructionPercentage": 74,
+     "order": 28,
+     "duration": 116,
+     "fresh": false,
+     "player": {
+      "tag": "#9P0Y000080",
+      "name": "玩家20",
+      "townhallLevel": 18,
+      "mapPosition": 11
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 32,
+     "duration": 151,
+     "fresh": false,
+     "player": {
+      "tag": "#9P0Y00002C",
+      "name": "玩家17",
+      "townhallLevel": 18,
+      "mapPosition": 5
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 15,
+   "attacksPerMember": 1,
+   "preparationStartTime": "20261006T111209.000Z",
+   "startTime": "20261007T111206.000Z",
+   "endTime": "20261008T111206.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 15,
+    "stars": 43,
+    "destructionPercentage": 98.86666666666666
+   },
+   "opponent": {
+    "tag": "#9P0Y000082",
+    "name": "部落10",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/Q3Vk4T-cKJLWVBXm2g3VBoDPc7FRf9iM-o7f7cZCb28.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/Q3Vk4T-cKJLWVBXm2g3VBoDPc7FRf9iM-o7f7cZCb28.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/Q3Vk4T-cKJLWVBXm2g3VBoDPc7FRf9iM-o7f7cZCb28.png"
+    },
+    "clanLevel": 27,
+    "attacks": 15,
+    "stars": 45,
+    "destructionPercentage": 100
+   },
+   "type": "cwl",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 9
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 30,
+     "duration": 69,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y000088",
+      "name": "玩家21",
+      "townhallLevel": 16,
+      "mapPosition": 24
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 10,
+     "duration": 161,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y000089",
+      "name": "玩家22",
+      "townhallLevel": 18,
+      "mapPosition": 10
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 15,
+   "attacksPerMember": 1,
+   "preparationStartTime": "20261005T111025.000Z",
+   "startTime": "20261006T110942.000Z",
+   "endTime": "20261007T110942.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 15,
+    "stars": 45,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y00008P",
+    "name": "部落11",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/8JcnkZw8EFSdMqNwAifkmLkpGK_pjiMly9oebajOs_I.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/8JcnkZw8EFSdMqNwAifkmLkpGK_pjiMly9oebajOs_I.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/8JcnkZw8EFSdMqNwAifkmLkpGK_pjiMly9oebajOs_I.png"
+    },
+    "clanLevel": 16,
+    "attacks": 15,
+    "stars": 43,
+    "destructionPercentage": 98.73333333333333
+   },
+   "type": "cwl",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 9
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 3,
+     "duration": 135,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00008Y",
+      "name": "玩家23",
+      "townhallLevel": 18,
+      "mapPosition": 2
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 2,
+     "destructionPercentage": 87,
+     "order": 30,
+     "duration": 146,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00008L",
+      "name": "玩家24",
+      "townhallLevel": 18,
+      "mapPosition": 9
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 10,
+   "attacksPerMember": 2,
+   "preparationStartTime": "20261005T120320.000Z",
+   "startTime": "20261006T110320.000Z",
+   "endTime": "20261007T110320.000Z",
+   "clan": {
+    "tag": "#9P0Y00002R",
+    "name": "部落8",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/L7EcvmU3_idcfAR6-OEoDjyJrRo7gnr6eJ7q7sSZwKc.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/L7EcvmU3_idcfAR6-OEoDjyJrRo7gnr6eJ7q7sSZwKc.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/L7EcvmU3_idcfAR6-OEoDjyJrRo7gnr6eJ7q7sSZwKc.png"
+    },
+    "clanLevel": 11,
+    "attacks": 20,
+    "stars": 30,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y00008Q",
+    "name": "部落12",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png"
+    },
+    "clanLevel": 25,
+    "attacks": 16,
+    "stars": 30,
+    "destructionPercentage": 100
+   },
+   "type": "random",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 5
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 5,
+     "duration": 106,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00008G",
+      "name": "玩家25",
+      "townhallLevel": 18,
+      "mapPosition": 6
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 6,
+     "duration": 140,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00008R",
+      "name": "玩家26",
+      "townhallLevel": 18,
+      "mapPosition": 7
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 20,
+     "duration": 141,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00008J",
+      "name": "玩家27",
+      "townhallLevel": 18,
+      "mapPosition": 1
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 15,
+   "attacksPerMember": 1,
+   "preparationStartTime": "20261004T111057.000Z",
+   "startTime": "20261005T110935.000Z",
+   "endTime": "20261006T110935.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 15,
+    "stars": 42,
+    "destructionPercentage": 97.6
+   },
+   "opponent": {
+    "tag": "#9P0Y00008C",
+    "name": "部落13",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/-D6fTeMZxurtcGwL5JGSYe7ZSVGtj5PZG7TBtMBJRP4.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/-D6fTeMZxurtcGwL5JGSYe7ZSVGtj5PZG7TBtMBJRP4.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/-D6fTeMZxurtcGwL5JGSYe7ZSVGtj5PZG7TBtMBJRP4.png"
+    },
+    "clanLevel": 8,
+    "attacks": 15,
+    "stars": 41,
+    "destructionPercentage": 98.26666666666667
+   },
+   "type": "cwl",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 9
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 30,
+     "duration": 82,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00008U",
+      "name": "玩家28",
+      "townhallLevel": 18,
+      "mapPosition": 15
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 3,
+     "duration": 176,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00008V",
+      "name": "玩家29",
+      "townhallLevel": 18,
+      "mapPosition": 9
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 15,
+   "attacksPerMember": 1,
+   "preparationStartTime": "20261003T110707.000Z",
+   "startTime": "20261004T110705.000Z",
+   "endTime": "20261005T110705.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 15,
+    "stars": 45,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y000090",
+    "name": "部落14",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/ZGmu36qPP_5__9zCk42MGfC6fVLv3r7uEoZgACgdF00.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/ZGmu36qPP_5__9zCk42MGfC6fVLv3r7uEoZgACgdF00.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/ZGmu36qPP_5__9zCk42MGfC6fVLv3r7uEoZgACgdF00.png"
+    },
+    "clanLevel": 36,
+    "attacks": 15,
+    "stars": 40,
+    "destructionPercentage": 92.53333333333333
+   },
+   "type": "cwl",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 9
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 2,
+     "duration": 77,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y000092",
+      "name": "玩家30",
+      "townhallLevel": 18,
+      "mapPosition": 2
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 16,
+     "duration": 151,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y000092",
+      "name": "玩家30",
+      "townhallLevel": 18,
+      "mapPosition": 2
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 10,
+   "attacksPerMember": 2,
+   "preparationStartTime": "20261003T120603.000Z",
+   "startTime": "20261004T110603.000Z",
+   "endTime": "20261005T110603.000Z",
+   "clan": {
+    "tag": "#9P0Y00002R",
+    "name": "部落8",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/L7EcvmU3_idcfAR6-OEoDjyJrRo7gnr6eJ7q7sSZwKc.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/L7EcvmU3_idcfAR6-OEoDjyJrRo7gnr6eJ7q7sSZwKc.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/L7EcvmU3_idcfAR6-OEoDjyJrRo7gnr6eJ7q7sSZwKc.png"
+    },
+    "clanLevel": 11,
+    "attacks": 18,
+    "stars": 30,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y000098",
+    "name": "部落15",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/rG0wusTh_IRS0CAN1Ee1DK0mbEhc5bo7nC_wXJNoBJc.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/rG0wusTh_IRS0CAN1Ee1DK0mbEhc5bo7nC_wXJNoBJc.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/rG0wusTh_IRS0CAN1Ee1DK0mbEhc5bo7nC_wXJNoBJc.png"
+    },
+    "clanLevel": 22,
+    "attacks": 16,
+    "stars": 28,
+    "destructionPercentage": 99.5
+   },
+   "type": "random",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 3
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 6,
+     "duration": 99,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y000099",
+      "name": "玩家31",
+      "townhallLevel": 18,
+      "mapPosition": 5
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 8,
+     "duration": 107,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00009P",
+      "name": "玩家32",
+      "townhallLevel": 18,
+      "mapPosition": 3
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 24,
+     "duration": 173,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00009Y",
+      "name": "玩家33",
+      "townhallLevel": 18,
+      "mapPosition": 4
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 15,
+   "attacksPerMember": 1,
+   "preparationStartTime": "20261002T110658.000Z",
+   "startTime": "20261003T110657.000Z",
+   "endTime": "20261004T110657.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 15,
+    "stars": 41,
+    "destructionPercentage": 97.2
+   },
+   "opponent": {
+    "tag": "#9P0Y00009L",
+    "name": "部落16",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/h4etl6xNbZuLCXRFD3JD90vz3a1K4hjCyEZ9ihu_RI0.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/h4etl6xNbZuLCXRFD3JD90vz3a1K4hjCyEZ9ihu_RI0.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/h4etl6xNbZuLCXRFD3JD90vz3a1K4hjCyEZ9ihu_RI0.png"
+    },
+    "clanLevel": 19,
+    "attacks": 15,
+    "stars": 44,
+    "destructionPercentage": 99.93333333333334
+   },
+   "type": "cwl",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 9
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 30,
+     "duration": 107,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00009Q",
+      "name": "玩家34",
+      "townhallLevel": 18,
+      "mapPosition": 10
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 2,
+     "destructionPercentage": 99,
+     "order": 10,
+     "duration": 180,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00009Q",
+      "name": "玩家34",
+      "townhallLevel": 18,
+      "mapPosition": 10
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 15,
+   "attacksPerMember": 1,
+   "preparationStartTime": "20261001T110648.000Z",
+   "startTime": "20261002T110647.000Z",
+   "endTime": "20261003T110647.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 15,
+    "stars": 42,
+    "destructionPercentage": 98.6
+   },
+   "opponent": {
+    "tag": "#9P0Y00009G",
+    "name": "部落17",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/KsM53uUnVDbBIgjLK9b-QF21SNAclSAZmcU10wIgAC8.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/KsM53uUnVDbBIgjLK9b-QF21SNAclSAZmcU10wIgAC8.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/KsM53uUnVDbBIgjLK9b-QF21SNAclSAZmcU10wIgAC8.png"
+    },
+    "clanLevel": 28,
+    "attacks": 15,
+    "stars": 43,
+    "destructionPercentage": 99.6
+   },
+   "type": "cwl",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 9
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 10,
+     "duration": 145,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00009R",
+      "name": "玩家35",
+      "townhallLevel": 18,
+      "mapPosition": 3
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 26,
+     "duration": 128,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00009J",
+      "name": "玩家36",
+      "townhallLevel": 18,
+      "mapPosition": 6
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 40,
+   "attacksPerMember": 2,
+   "preparationStartTime": "20260929T111802.000Z",
+   "startTime": "20260930T101802.000Z",
+   "endTime": "20261001T101802.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 66,
+    "stars": 120,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y00009C",
+    "name": "部落18",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png"
+    },
+    "clanLevel": 19,
+    "attacks": 62,
+    "stars": 120,
+    "destructionPercentage": 100
+   },
+   "type": "random",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 19
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 75,
+     "duration": 74,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00009U",
+      "name": "玩家37",
+      "townhallLevel": 18,
+      "mapPosition": 25
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 77,
+     "duration": 99,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y00009V",
+      "name": "玩家38",
+      "townhallLevel": 18,
+      "mapPosition": 26
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 2,
+     "destructionPercentage": 90,
+     "order": 48,
+     "duration": 172,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000P0",
+      "name": "玩家39",
+      "townhallLevel": 18,
+      "mapPosition": 30
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 84,
+     "duration": 156,
+     "fresh": false,
+     "player": {
+      "tag": "#9P0Y0000P2",
+      "name": "玩家40",
+      "townhallLevel": 18,
+      "mapPosition": 2
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 40,
+   "attacksPerMember": 2,
+   "preparationStartTime": "20260927T120753.000Z",
+   "startTime": "20260928T110753.000Z",
+   "endTime": "20260929T110753.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 77,
+    "stars": 120,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y0000P8",
+    "name": "部落19",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/36o_TXOHNxzCfR9vMqEsCWZTUKPr0vMemC-yvJYpjks.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/36o_TXOHNxzCfR9vMqEsCWZTUKPr0vMemC-yvJYpjks.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/36o_TXOHNxzCfR9vMqEsCWZTUKPr0vMemC-yvJYpjks.png"
+    },
+    "clanLevel": 37,
+    "attacks": 62,
+    "stars": 120,
+    "destructionPercentage": 100
+   },
+   "type": "random",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 20
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 53,
+     "duration": 119,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000P9",
+      "name": "玩家41",
+      "townhallLevel": 18,
+      "mapPosition": 33
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 54,
+     "duration": 115,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000PP",
+      "name": "玩家42",
+      "townhallLevel": 18,
+      "mapPosition": 34
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 2,
+     "destructionPercentage": 96,
+     "order": 84,
+     "duration": 160,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000PY",
+      "name": "玩家43",
+      "townhallLevel": 18,
+      "mapPosition": 22
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 96,
+     "duration": 101,
+     "fresh": false,
+     "player": {
+      "tag": "#9P0Y0000PL",
+      "name": "玩家44",
+      "townhallLevel": 18,
+      "mapPosition": 21
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 40,
+   "attacksPerMember": 2,
+   "preparationStartTime": "20260925T120457.000Z",
+   "startTime": "20260926T110457.000Z",
+   "endTime": "20260927T110457.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 79,
+    "stars": 120,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y0000PQ",
+    "name": "部落20",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/ty0O1LL83rnrSz7Jp0ZQowkIvSB1s8sruocgKUnrErA.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/ty0O1LL83rnrSz7Jp0ZQowkIvSB1s8sruocgKUnrErA.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/ty0O1LL83rnrSz7Jp0ZQowkIvSB1s8sruocgKUnrErA.png"
+    },
+    "clanLevel": 29,
+    "attacks": 60,
+    "stars": 108,
+    "destructionPercentage": 93.1
+   },
+   "type": "random",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 20
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 53,
+     "duration": 102,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000PG",
+      "name": "玩家45",
+      "townhallLevel": 18,
+      "mapPosition": 21
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 54,
+     "duration": 92,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000PR",
+      "name": "玩家46",
+      "townhallLevel": 18,
+      "mapPosition": 22
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 55,
+     "duration": 143,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000PG",
+      "name": "玩家45",
+      "townhallLevel": 18,
+      "mapPosition": 21
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 40,
+   "attacksPerMember": 2,
+   "preparationStartTime": "20260923T120102.000Z",
+   "startTime": "20260924T110102.000Z",
+   "endTime": "20260925T110102.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 76,
+    "stars": 120,
+    "destructionPercentage": 100
+   },
+   "opponent": {
+    "tag": "#9P0Y0000PJ",
+    "name": "部落21",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/7GCbgu-x2Q-bheFGcySVHlAOr1t1bECgdBcBuvC348M.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/7GCbgu-x2Q-bheFGcySVHlAOr1t1bECgdBcBuvC348M.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/7GCbgu-x2Q-bheFGcySVHlAOr1t1bECgdBcBuvC348M.png"
+    },
+    "clanLevel": 18,
+    "attacks": 69,
+    "stars": 120,
+    "destructionPercentage": 100
+   },
+   "type": "random",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 20
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 126,
+     "duration": 73,
+     "fresh": false,
+     "player": {
+      "tag": "#9P0Y0000PC",
+      "name": "玩家47",
+      "townhallLevel": 18,
+      "mapPosition": 25
+     }
+    },
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 128,
+     "duration": 62,
+     "fresh": false,
+     "player": {
+      "tag": "#9P0Y0000PU",
+      "name": "玩家48",
+      "townhallLevel": 18,
+      "mapPosition": 31
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 86,
+     "duration": 114,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000PV",
+      "name": "玩家49",
+      "townhallLevel": 18,
+      "mapPosition": 27
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 30,
+   "attacksPerMember": 1,
+   "preparationStartTime": "20260907T112410.000Z",
+   "startTime": "20260908T112408.000Z",
+   "endTime": "20260909T112408.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 30,
+    "stars": 84,
+    "destructionPercentage": 96.66666666666667
+   },
+   "opponent": {
+    "tag": "#9P0Y0000Y0",
+    "name": "部落22",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/TbuPynrksZyrU3ZizWWjmQKX59kyHIVR0TrwuCL2o1k.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/TbuPynrksZyrU3ZizWWjmQKX59kyHIVR0TrwuCL2o1k.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/TbuPynrksZyrU3ZizWWjmQKX59kyHIVR0TrwuCL2o1k.png"
+    },
+    "clanLevel": 29,
+    "attacks": 30,
+    "stars": 80,
+    "destructionPercentage": 95.6
+   },
+   "type": "cwl",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 22
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 5,
+     "duration": 90,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000Y2",
+      "name": "玩家50",
+      "townhallLevel": 18,
+      "mapPosition": 1
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 2,
+     "destructionPercentage": 90,
+     "order": 48,
+     "duration": 162,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000Y8",
+      "name": "玩家51",
+      "townhallLevel": 18,
+      "mapPosition": 19
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 30,
+   "attacksPerMember": 1,
+   "preparationStartTime": "20260906T112336.000Z",
+   "startTime": "20260907T112334.000Z",
+   "endTime": "20260908T112334.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 30,
+    "stars": 83,
+    "destructionPercentage": 97.3
+   },
+   "opponent": {
+    "tag": "#9P0Y0000Y9",
+    "name": "部落23",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
+    },
+    "clanLevel": 9,
+    "attacks": 30,
+    "stars": 86,
+    "destructionPercentage": 99.2
+   },
+   "type": "cwl",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 22
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 8,
+     "duration": 93,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000YP",
+      "name": "玩家52",
+      "townhallLevel": 18,
+      "mapPosition": 7
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 39,
+     "duration": 95,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000YY",
+      "name": "玩家53",
+      "townhallLevel": 18,
+      "mapPosition": 2
+     }
+    }
+   ]
+  },
+  {
+   "teamSize": 30,
+   "attacksPerMember": 1,
+   "preparationStartTime": "20260902T104207.000Z",
+   "startTime": "20260903T111053.000Z",
+   "endTime": "20260904T111053.000Z",
+   "clan": {
+    "tag": "#9P0Y000000",
+    "name": "部落1",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/oUSTQx_ZsoroEV63jpXhB16jrbi8O0jGPCYyneWuYcU.png"
+    },
+    "clanLevel": 36,
+    "attacks": 30,
+    "stars": 89,
+    "destructionPercentage": 99.73333333333333
+   },
+   "opponent": {
+    "tag": "#9P0Y0000YL",
+    "name": "部落24",
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/vU8vJltJy8M-YwbxH-WxyrNGcPh0wKVhZoUUG9hlqcM.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/vU8vJltJy8M-YwbxH-WxyrNGcPh0wKVhZoUUG9hlqcM.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/vU8vJltJy8M-YwbxH-WxyrNGcPh0wKVhZoUUG9hlqcM.png"
+    },
+    "clanLevel": 19,
+    "attacks": 30,
+    "stars": 82,
+    "destructionPercentage": 96.5
+   },
+   "type": "cwl",
+   "player": {
+    "tag": "#9P0Y000008",
+    "name": "玩家1",
+    "townhallLevel": 18,
+    "mapPosition": 22
+   },
+   "attacks": [
+    {
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 7,
+     "duration": 86,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000YQ",
+      "name": "玩家54",
+      "townhallLevel": 17,
+      "mapPosition": 13
+     }
+    }
+   ],
+   "defenses": [
+    {
+     "stars": 2,
+     "destructionPercentage": 87,
+     "order": 49,
+     "duration": 114,
+     "fresh": true,
+     "player": {
+      "tag": "#9P0Y0000YG",
+      "name": "玩家55",
+      "townhallLevel": 18,
+      "mapPosition": 18
+     }
+    }
+   ]
+  }
+ ]
+}

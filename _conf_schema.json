@@ -1,0 +1,54 @@
+{
+  "war_count": {
+    "description": "部落战统计最近几场",
+    "type": "int",
+    "hint": "默认 10。只统计普通部落战，不含联赛",
+    "default": 10
+  },
+  "cwl_count": {
+    "description": "联赛统计最近几场",
+    "type": "int",
+    "hint": "默认 14。联赛每天一场，一次联赛通常 7 场",
+    "default": 14
+  },
+  "cache_ttl": {
+    "description": "查询结果缓存秒数",
+    "type": "int",
+    "hint": "同一标签在这个时间内重复查询不会再请求接口，避免触发限流",
+    "default": 300
+  },
+  "at_sender": {
+    "description": "回复时 @ 查询的人",
+    "type": "bool",
+    "hint": "仅 QQ（aiocqhttp）平台生效，其他平台自动改成纯文本",
+    "default": true
+  },
+  "show_cwl": {
+    "description": "结果里显示联赛部分",
+    "type": "bool",
+    "default": true
+  },
+  "request_timeout": {
+    "description": "接口超时秒数",
+    "type": "int",
+    "default": 25
+  },
+  "war_api_base": {
+    "description": "战争日志接口地址",
+    "type": "string",
+    "hint": "默认第三方镜像 api.clashk.ing/v2，镜像失效时可换",
+    "default": "https://api.clashk.ing/v2"
+  },
+  "profile_api_base": {
+    "description": "玩家资料接口地址",
+    "type": "string",
+    "hint": "默认第三方镜像 clashapi.colinschmale.dev/v1",
+    "default": "https://clashapi.colinschmale.dev/v1"
+  },
+  "api_key": {
+    "description": "玩家资料接口的 apikey",
+    "type": "string",
+    "hint": "当前镜像不校验 key，留空即可；以后镜像要求鉴权时再填",
+    "default": ""
+  }
+}

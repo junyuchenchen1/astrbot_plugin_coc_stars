@@ -1,0 +1,8 @@
+name: astrbot_plugin_coc_stars
+display_name: 部落冲突三星率
+short_desc: 群员绑定标签，一键查询部落战 / 联赛三星率
+desc: 群员用 /coc绑定 绑定自己的部落冲突标签，之后发 /coc查询 就能看到最近 N 场部落战和联赛的三星率、星级分布、未进攻次数，机器人会 @ 查询的人。数据来自第三方镜像接口，不需要官方开发者 Token。
+version: v1.0.0
+author: 部落首领
+repo: "https://github.com/chen1449557527/astrbot_plugin_coc_stars"
+astrbot_version: ">=4.16"
